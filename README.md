@@ -90,6 +90,23 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "5000"]
 
 Now your Docker Container is running at ` http://127.0.0.1:8000/docs` and this is the Swagger UI of FastAPI.
 
+
+## Frontend Using Streamlit
+
+![image](Datasets/stream.png)
+
+1.Run your Streamlit App
+
+```sh
+streamlit run {Name_of_Your_Streamlit_App}.py
+
+```
+
+For this Project Run this CMD:
+
+`streamlit run Streamlit_App.py`
+
+
 ## 📋 Further Changes to be Done
 
 - [ ] Deploying the Web Application on Cloud.
