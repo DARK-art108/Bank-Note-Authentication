@@ -1,4 +1,4 @@
-# Authenticating Bank Notes Using Machine Learning 💵💳
+# Authenticate Bank Notes Using Machine Learning 💵💳
 
 <p align="center">
   <a href="https://github.com/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1/">
