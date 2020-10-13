@@ -114,7 +114,17 @@ For this Project Run this CMD:
      - [ ] Google Cloud Platform
      - [ ] Azure
      
- ## 📜 LICENSE
+## 📜 LICENSE
 
 [MIT](https://github.com/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1/blob/master/LICENSE)
+
+## 📊 Repo Stats
+
+![Repo Size](https://img.shields.io/github/repo-size/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1?style=for-the-badge)
+![License](https://img.shields.io/github/license/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1?style=for-the-badge)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
      
