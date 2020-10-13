@@ -53,5 +53,51 @@ Run the FastAPI using this CMD:
 ```sh
 uvicorn app:app --reload
 ```
-INFO:     Uvicorn running on http://127.0.0.1:8000 [Or on your metioned PORT]
+INFO:     Uvicorn running on http://127.0.0.1:8000 / Or on your metioned PORT No
 
+One of the best FastAPI feature is you will get Swagger UI a best testing enviroment for your API inbuilt.
+For acessing it :
+
+Go to ` http://127.0.0.1:8000/docs` and enjoy the application
+
+## Dockerize your Application
+
+<p align="center">
+  <img width="600" height="400" src="Datasets/docker2.gif">
+</p>
+
+1.Create a **Dockerfile** to create a Docker Image.
+
+```sh
+FROM python:3.7-buster
+COPY . /app
+EXPOSE 5000
+WORKDIR /app
+RUN pip install -r requirements.txt
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "5000"]
+
+```
+
+2.Build the Docker Image
+
+`docker build -t {Name_of_your_Image}`
+
+3.Run your Docker Image
+
+`docker run -p 5000:5000 bank_auth`
+
+**Note**: bank_auth is a docker image name, you can name it anything!!
+
+Now your Docker Container is running at ` http://127.0.0.1:8000/docs` and this is the Swagger UI of FastAPI.
+
+## 📋 Further Changes to be Done
+
+- [ ] Deploying the Web Application on Cloud.
+     - [ ] AWS BeanStalk
+     - [ ] Google Cloud Platform
+     - [ ] Azure
+     
+ ## 📜 LICENSE
+
+[MIT](https://github.com/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1/blob/master/LICENSE)
+     
