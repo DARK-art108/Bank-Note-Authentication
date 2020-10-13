@@ -16,9 +16,9 @@ Whether we pull out paper bills or swipe a credit card, most of the transactions
 Indeed, most money today exists as credit money or as electronic records stored in databases in banks or financial institutions. But still, the bread and butter of everyday transactions is currency, and that is what we will look more closely at here.
 
 ### Why Bank Notes Genuinity is Important 💵?
-As now a days many transactions take place using plastic money , But Bank Notes and Coins are still is in the use and used by more than 56% of Indians as surveyed in 2019 and the major transactions from buying daily households to spending money in various places like small commodities shop like Barber, Groceries are taken place in notes if the notes used by people of the country are forged or duplicate this will leads to unstable economy and rise of crimes in country, so we need to autheticate notes so that it can leads to stable economy and leads towards a well development country.
+As now a days many transactions take place using plastic money , But Bank Notes and Coins are still is in the use and used by more than 56% of Indians as surveyed in 2019 and the major transactions from buying daily households to spending money in various places to buy things in small commodities shop to Barber Shops and Groceries are taken place in notes and if the notes used by people of the country are forged or duplicate this will leads to unstable economy and rise of crimes in country with illegal transactions, so we need to autheticate notes so that it can leads to stable economy and leads towards a well development of country.
 
-Our Model performs fairly well with an accuracy of 99% and an F1 Score of 95% and Recall Score of 92%. This provides a handy tool to utilize the power of Machine Learning and Artificial Intelligence in Binary Classification Problems where time and accuracy is the paramount objective of classification.
+Our Model performs fairly well with an accuracy of 99% and an F1 Score of 95% and Recall Score of 92% as we have used Bagging Technique which is Random Forest Classifier with Sklearn library. This provides a handy tool to utilize the power of Machine Learning and Artificial Intelligence in Binary Classification Problems where time and accuracy is the paramount objective of classification.
 
 ## 🏁 Technology Stack
 
