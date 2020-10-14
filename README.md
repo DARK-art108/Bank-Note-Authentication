@@ -1,9 +1,8 @@
 # Authenticate Bank Notes Using Machine Learning 💵💳
 
 <p align="center">
-  <a href="https://github.com/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1/">
-    <img src="Datasets/rich.jpg" alt="Logo" width="250" height="250">
-  </a>
+  <img width="900" height="500" src="Datasets/Violet and Green Start-up Business Animated Presentation.gif">
+</p>
 
 ## 📌 Introduction
 
