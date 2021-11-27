@@ -87,7 +87,7 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "5000"]
 
 **Note**: bank_auth is a docker image name, you can name it anything!!
 
-Now your Docker Container is running at ` http://127.0.0.1:8000/docs` and this is the Swagger UI of FastAPI.
+Now your Docker Container is running at ` http://127.0.0.1:5000/docs or http://localhost:5000/docs` and this is the Swagger UI of FastAPI.
 
 
 ## Frontend Using Streamlit
